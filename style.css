@@ -7,6 +7,7 @@
 body {
     width: 1440px;
     margin: auto;
+    background-color: rgba(155, 173, 235, 0.356);
 }
 
 
@@ -31,13 +32,13 @@ body {
     background-color: aqua;
 }
 
-.logo {
+header > .logo {
     height: 90px;
     width: 12%;
     background-color: rgba(0, 0, 255, 0.521);
 }
 
-.page_navigation{
+header > .page_navigation{
     height: 40px;
     width: 100%;
     background-color: rgb(87, 170, 209);
@@ -73,7 +74,8 @@ body {
     float: left;
 }
 
-.img {
+.aside > .img,
+.article_site > .img {
     height: 42%;
     background-color: rgba(0, 0, 255, 0.212);
 }

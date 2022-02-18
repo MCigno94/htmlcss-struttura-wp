@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+/* header
+**********/
+
+.site_header {
+    height: 200px;
+    background-color: aqua;
+}
+
+.logo {
+    height: 110px;
+    width: 15%;
+    background-color: blue;
+}
+
+.page_navigation{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(87, 170, 209);
+    margin-top: 20px;
+}
+
+
+/* main
+**********/
+
+
+/* footer
+**********/

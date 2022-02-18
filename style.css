@@ -73,6 +73,11 @@ body {
     float: left;
 }
 
+.img {
+    height: 40%;
+    background-color: rgba(0, 0, 255, 0.212);
+}
+
 .article_site {
     width: 50%;
     height: 650px;

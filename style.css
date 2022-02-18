@@ -74,16 +74,16 @@ body {
 }
 
 .img {
-    height: 40%;
+    height: 42%;
     background-color: rgba(0, 0, 255, 0.212);
 }
 
 .article_site {
-    width: 50%;
+    width: 56%;
     height: 650px;
     background-color: paleturquoise;
     float: left;
-    margin: 0 5%;
+    margin: 0 2%;
 }
 
 /* footer
